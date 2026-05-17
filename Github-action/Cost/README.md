@@ -97,10 +97,6 @@ A public repository means:
 - Anyone on the internet can view the code
 - Usually open-source projects
 
-Example:
-
-https://github.com/kubernetes/kubernetes
-
 Pricing:
 
 - GitHub Actions self-hosted usage charge: **$0**
