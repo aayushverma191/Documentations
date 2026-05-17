@@ -297,4 +297,3 @@ Northflank Analysis:
 [https://northflank.com/blog/github-pricing-change-self-hosted-alternatives-github-actions](https://northflank.com/blog/github-pricing-change-self-hosted-alternatives-github-actions)
 
 ---
-
