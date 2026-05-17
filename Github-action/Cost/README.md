@@ -2,25 +2,69 @@
 # GitHub Actions Pricing Guide
 Comparison of Self-Hosted Runners vs GitHub-Hosted (Managed) Runners
 
----
-# Table of Contents
+## **Table of Contents**
+
+<details>
+  <summary>Overview</summary>
 
 - [Overview](#overview)
-- [Repository Visibility Explained](#repository-visibility-explained)
-  - [Public Repository](#public-repository)
-  - [Private Repository](#private-repository)
-- [Self-Hosted Runner Pricing](#self-hosted-runner-pricing)
-  - [Formula](#formula)
-  - [Example Usage](#example-usage)
-  - [More Examples](#more-examples)
-- [GitHub Hosted Runner Pricing](#github-hosted-runner-pricing)
-  - [Example](#example)
+
+</details>
+
+<details>
+  <summary>Repository Visibility Explained</summary>
+
+- [Public Repository](#public-repository)
+- [Private Repository](#private-repository)
+
+</details>
+
+<details>
+  <summary>Self-Hosted Runner Pricing</summary>
+
+- [Formula](#formula)
+- [Example Usage](#example-usage)
+- [More Examples](#more-examples)
+
+</details>
+
+<details>
+  <summary>GitHub Hosted Runner Pricing</summary>
+
+- [Example](#example)
+
+</details>
+
+<details>
+  <summary>Example Scenario</summary>
+
 - [Example Scenario](#example-scenario)
-- [Pros and Cons](#pros-and-cons)
-  - [GitHub Hosted](#github-hosted)
-  - [Self Hosted](#self-hosted)
+
+</details>
+
+<details>
+  <summary>Pros and Cons</summary>
+
+- [GitHub Hosted](#github-hosted)
+- [Self Hosted](#self-hosted)
+
+</details>
+
+<details>
+  <summary>Recommendation</summary>
+
 - [Recommendation](#recommendation)
-- [References](#references)
+
+</details>
+
+<details>
+ <summary>References</summary>
+
+- [Official GitHub Pricing](#official-github-pricing)
+
+</details>
+
+---
 
 ## Overview
 
