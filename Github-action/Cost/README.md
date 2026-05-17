@@ -1,4 +1,4 @@
-````md
+
 # GitHub Actions Pricing Guide
 Comparison of Self-Hosted Runners vs GitHub-Hosted (Managed) Runners
 
